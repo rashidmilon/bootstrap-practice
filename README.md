@@ -1,2 +1,2 @@
 # bootstrap-practice
- C:\Users\nct\Documents\GitHub\navbar-design
+https://rashidmilon.github.io/bootstrap-practice/
